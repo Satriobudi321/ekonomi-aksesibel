@@ -1,0 +1,4 @@
+wxPython>=4.2.0
+pyttsx3>=2.90
+pywin32>=306
+pyinstaller>=6.0
