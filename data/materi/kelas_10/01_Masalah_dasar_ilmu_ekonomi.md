@@ -61,6 +61,8 @@ waktu atau tempat mungkin termasuk kategori mewah (luks), sedangkan
 pada tempat atau waktu lain mungkin tidak termasuk barang mewah. 
 Contohnya, rumah mewah, mobil mewah, dan berlibur ke luar negeri.
 
+[Video: macam-macam kebutuhan manusia](https://youtu.be/fpTdWb7GJ30)
+
 ## Kebutuhan dan Alat Pemuas
 
 Kebutuhan manusia dapat dibagi menjadi beberapa jenis. Berdasarkan intensitas, ada kebutuhan primer, sekunder, dan tersier. Berdasarkan sifat, ada kebutuhan jasmani dan rohani. Berdasarkan waktu, ada kebutuhan sekarang dan kebutuhan yang akan datang. Berdasarkan subjek, ada kebutuhan individu dan kebutuhan kolektif.
