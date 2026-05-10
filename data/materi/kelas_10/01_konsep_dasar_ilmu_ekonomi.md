@@ -1,10 +1,25 @@
-# Masalah Ekonomi dan Kaitannya dengan Kelangkaan Kebutuhan Manusia
+# Masalah Manusia di Bidang Ekonomi
 
-Ilmu ekonomi adalah ilmu yang mempelajari bagaimana manusia memenuhi kebutuhan hidupnya yang tidak terbatas dengan sumber daya yang terbatas. Inti masalah ekonomi terletak pada kelangkaan, yaitu kondisi ketika alat pemuas kebutuhan jumlahnya lebih sedikit dibandingkan kebutuhan manusia.
+## Pengertian Kebutuhan 
 
-## Pengertian Ilmu Ekonomi
+Untuk dapat bertahan hidup, manusia harus memenuhi segala macam 
+kebutuhannya. Kebutuhan manusia ini dapat berupa barang dan jasa. Barang 
+adalah sesuatu yang berwujud (tangible), seperti makanan, minuman, 
+pakaian, dan perumahan. Adapun jasa adalah sesuatu yang tidak berwujud 
+(intangible), seperti pendidikan, kesehatan, hiburan, dan rekreasi.
 
-Kata ekonomi berasal dari bahasa Yunani, oikos yang berarti rumah tangga, dan nomos yang berarti aturan. Secara harfiah, ekonomi berarti aturan rumah tangga. Dalam arti luas, ilmu ekonomi mempelajari perilaku individu, rumah tangga, perusahaan, dan negara dalam mengelola sumber daya untuk memenuhi kebutuhan.
+Kebutuhan manusia akan barang dan jasa, dari waktu ke waktu selalu mengalami perubahan. Faktor-faktor yang memengaruhi berkembangnya kebutuhan manusia di antaranya sebagai berikut.
+a. Sifat manusia tidak pernah merasa puas dengan apa yang telah mereka peroleh dan mereka miliki. 
+b. Adanya pertumbuhan penduduk dunia yang tinggi, yaitu rata-rata 2,1 juta jiwa per detik atau sekitar 65 juta orang per tahun.
+c. Kebutuhan manusia sifatnya tidak terbatas, sedangkan sumber daya untuk 
+menghasilkan semua barang dan jasa yang dibutuhkan manusia sifatnya 
+terbatas. Keadaan seperti inilah yang disebut kelangkaan (scarcity).
+
+Adanya keterbatasan sumber daya yang tersedia menyebabkan manusia 
+dihadapkan pada pilihan-pilihan yang bersifat individu maupun kolektif. 
+Pilihan yang bersifat individu, misalnya Anda sebagai pelajar dihadapkan 
+pada pilihan untuk membeli buku pelajaran atau pakaian. Adapun pilihan 
+kolektif, misalnya membangun jembatan atau memperbaiki selokan.
 
 ## Masalah Pokok Ekonomi
 
