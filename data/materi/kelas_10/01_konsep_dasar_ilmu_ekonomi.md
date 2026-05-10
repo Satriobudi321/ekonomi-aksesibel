@@ -1,6 +1,5 @@
 # Masalah Ekonomi dan Kaitannya dengan Kelangkaan Kebutuhan Manusia
 
-
 Ilmu ekonomi adalah ilmu yang mempelajari bagaimana manusia memenuhi kebutuhan hidupnya yang tidak terbatas dengan sumber daya yang terbatas. Inti masalah ekonomi terletak pada kelangkaan, yaitu kondisi ketika alat pemuas kebutuhan jumlahnya lebih sedikit dibandingkan kebutuhan manusia.
 
 ## Pengertian Ilmu Ekonomi
