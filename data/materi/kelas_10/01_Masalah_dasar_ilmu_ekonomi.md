@@ -9,9 +9,14 @@ pakaian, dan perumahan. Adapun jasa adalah sesuatu yang tidak berwujud
 (intangible), seperti pendidikan, kesehatan, hiburan, dan rekreasi.
 
 Kebutuhan manusia akan barang dan jasa, dari waktu ke waktu selalu mengalami perubahan. Faktor-faktor yang memengaruhi berkembangnya kebutuhan manusia di antaranya sebagai berikut.
-a. Sifat manusia tidak pernah merasa puas dengan apa yang telah mereka peroleh dan mereka miliki. 
 
-b. Adanya pertumbuhan penduduk dunia yang tinggi, yaitu rata-rata 2,1 juta jiwa per detik atau sekitar 65 juta orang per tahun.
+a. Sifat manusia tidak pernah merasa 
+puas dengan apa yang telah 
+mereka peroleh dan mereka miliki. 
+
+b. Adanya pertumbuhan penduduk dunia yang tinggi, 
+yaitu rata-rata 2,1 juta jiwa per detik 
+atau sekitar 65 juta orang per tahun.
 
 c. Kebutuhan manusia sifatnya tidak terbatas, sedangkan sumber daya untuk 
 menghasilkan semua barang dan jasa yang dibutuhkan manusia sifatnya 
