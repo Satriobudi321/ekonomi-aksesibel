@@ -28,9 +28,38 @@ Pilihan yang bersifat individu, misalnya Anda sebagai pelajar dihadapkan
 pada pilihan untuk membeli buku pelajaran atau pakaian. Adapun pilihan 
 kolektif, misalnya membangun jembatan atau memperbaiki selokan.
 
-## Masalah Pokok Ekonomi
+## Macam-Macam Kebutuhan
 
-Terdapat tiga masalah pokok ekonomi modern. Pertama, what atau apa yang akan diproduksi. Kedua, how atau bagaimana cara memproduksi. Ketiga, for whom atau untuk siapa barang diproduksi. Ketiga pertanyaan ini harus dijawab oleh setiap sistem ekonomi.
+Kebutuhan manusia dapat dikelompokkan menjadi sebagai berikut.
+
+ a. Kebutuhan Berdasarkan Intensitas Kegunaanya 
+
+Berdasarkan tingkat kepentingannya, kebutuhan dapat dibagi 
+menjadi sebagai berikut.
+
+1) Kebutuhan Primer atau Kebutuhan Dasar
+Kebutuhan primer disebut juga kebutuhan alamiah. Kebutuhan 
+primer merupakan tuntutan secara alamiah yang harus dipenuhi. Manusia 
+harus memenuhi kebutuhan dasarnya, seperti makanan, pakaian, dan 
+perumahan (sandang, pangan, dan papan) untuk mempertahankan 
+kelangsungan hidupnya.
+
+2) Kebutuhan Sekunder atau Kebutuhan Pelengkap 
+(Kebutuhan Kultural)
+Setelah kebutuhan primer sudah terpenuhi, manusia masih memerlukan 
+kebutuhan yang lain, yaitu kebutuhan sekunder. Pemenuhan kebutuhan 
+ini sejalan dengan tingkat kebudayaan (culture) masyarakat tempat 
+seseorang hidup atau bertempat tinggal. Misalnya, kebutuhan masyarakat 
+di daerah Lembah Baliem Papua akan berbeda dengan masyarakat di 
+Kota Surabaya. Contoh kebutuhan sekunder adalah radio, televisi, buku, 
+dan alat tulis.
+
+3) Kebutuhan Tersier atau Kebutuhan Luks (Kebutuhan Mewah) 
+Kebutuhan tersier adalah kebutuhan yang hanya dapat dipenuhi oleh 
+sebagian kecil masyarakat yang memiliki ekonomi biaya tinggi atau orangorang kaya. Ukuran mewah ini sifatnya relatif, artinya satu barang pada satu 
+waktu atau tempat mungkin termasuk kategori mewah (luks), sedangkan 
+pada tempat atau waktu lain mungkin tidak termasuk barang mewah. 
+Contohnya, rumah mewah, mobil mewah, dan berlibur ke luar negeri.
 
 ## Kebutuhan dan Alat Pemuas
 
