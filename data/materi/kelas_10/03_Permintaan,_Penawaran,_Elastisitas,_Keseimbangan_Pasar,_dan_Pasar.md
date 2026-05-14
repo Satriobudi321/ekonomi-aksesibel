@@ -1,4 +1,4 @@
-# Sistem Ekonomi
+# Permintaan, Penawaran, Elastisitas, Keseimbangan Pasar, dan Pasar 
 
 Sistem ekonomi adalah cara suatu negara mengatur kegiatan ekonominya untuk mencapai kesejahteraan masyarakat. Setiap sistem memiliki kelebihan dan kekurangan.
 
