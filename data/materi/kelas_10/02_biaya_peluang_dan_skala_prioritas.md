@@ -209,11 +209,15 @@ Secara matematis, fungsi produksi dapat dirumuskan sebagai berikut:
 Q = f (K, L, R, T)
 
 Q = jumlah produk (output) yang dihasilkan
-f = fungsi, menunjukkan hubungan fungsional antara jumlah output
-dan input (K, L, R, T)
+
+f = fungsi, menunjukkan hubungan fungsional antara jumlah outputdan input (K, L, R, T)
+
 K = Kapital (capital) atau barang modal
+
 L = Labor (tenaga kerja)
+
 R = Resource (kekayaan alam)
+
 T = Technology (teknologi yang digunakan)
 
 Rumus tersebut menunjukkan jumlah produk (output) yang 
@@ -231,16 +235,160 @@ dirumuskan sebagai berikut:
 Q = f (K, L).
 
 Q = jumlah output yang dihasilkan
-f = menunjukkan hubungan fungsional antara jumlah output yang 
-dihasilkan dan input (K dan L)
+
+f = menunjukkan hubungan fungsional antara jumlah output yang dihasilkan dan input (K dan L)
+
 K = kapital atau barang modal
+
 L = labor atau tenaga kerja
 
 Dalam fungsi produksi tersebut, barang modal dianggap sebagai 
 faktor produksi tetap. Adapun tenaga kerja merupakan faktor produksi 
 variabel.
 
+c. Biaya Produksi
 
+Biaya produksi merupakan sebagian keseluruhan faktor produksi yang 
+dikorbankan dalam proses produksi untuk menghasilkan produk. Dalam 
+kegiatan perusahaan, biaya produksi dihitung berdasarkan jumlah produk 
+yang siap dijual. Biaya produksi sering disebut ongkos produksi. Berdasarkan 
+definisi tersebut, pengertian biaya produksi adalah keseluruhan biaya yang 
+dikorbankan untuk menghasilkan produk hingga produk itu sampai di 
+pasar, atau sampai ke tangan konsumen.
 
-## 
+1) Komponen Biaya Produksi
+Berdasarkan komponen yang menyusunnya, biaya produksi meliputi 
+unsur-unsur: 
+(a) bahan baku atau bahan dasar, termasuk bahan setengah jadi;
+(b) bahan-bahan pembantu atau bahan penolong;
+(c) upah tenaga kerja tidak terdidik dan tenaga kerja terdidik;
+(d) penyusutan peralatan produksi;
+(e) bunga modal;
+(f) sewa (gedung atau peralatan yang lain);
+(g) biaya pemasaran, seperti biaya penelitian dan analisis pasar produk, 
+biaya angkutan dan pengiriman, dan biaya reklame atau iklan;
+(h) pajak perusahaan.
 
+2) Jenis-Jenis Biaya Produksi
+Penggolongan jenis-jenis biaya produksi dapat dikelompokkan 
+menjadi sebagai berikut.
+(a) Biaya tetap/fixed cost (FC), yaitu biaya yang dalam periode waktu 
+tertentu jumlahnya tetap, tidak bergantung pada jumlah produk 
+yang dihasilkan. Contohnya, penyusutan peralatan, sewa gedung atau 
+penyusutan gedung, pajak perusahaan, dan biaya administrasi.
+(b) Biaya variabel/variable cost (VC), yaitu biaya yang jumlahnya berubahubah sesuai dengan jumlah produk yang dihasilkan. Dalam hal ini, 
+semakin banyak jumlah produk yang dihasilkan, semakin besar 
+pula jumlah biaya variabelnya. Contohnya, biaya bahan baku dan 
+upah tenaga kerja yang dibayar berdasarkan jumlah produk yang 
+dihasilkannya.
+(c) Biaya total/total cost (TC) adalah jumlah seluruh biaya tetap dan 
+biaya variabel yang dikeluarkan oleh perusahaan untuk menghasilkan 
+sejumlah produk dalam suatu periode tertentu. Berdasarkan pengertian 
+tersebut biaya total dapat dirumuskan sebagai berikut.
+
+TC = FC + VC
+
+TC = biaya total (total cost)
+
+FC = biaya tetap (fixed cost)
+
+VC = biaya variabel (variable cost)
+
+(d) Biaya rata-rata/average cost (AC) adalah biaya produksi per unit produk 
+yang dihasilkan. Besarnya AC dapat dihitung dengan cara membagi 
+TC dengan Q. 
+
+(e) Biaya marjinal/marginal cost (MC) merupakan biaya tambahan yang 
+diperlukan untuk tambahan satu unit produk yang dihasilkan. Munculnya 
+MC karena adanya perluasan produksi yang dilakukan perusahaan dalam 
+rangka menambah jumlah produk yang dihasil kannya. MC dapat dihitung 
+dengan cara membagi tambahan TC (ΔTC) dengan tambahan Q (ΔQ). 
+
+d. Hukum Pertambahan Hasil yang Semakin Berkurang 
+
+(The Law of Diminishing Returns)
+Berkaitan dengan fungsi produksi, terdapat tiga konsep produksi yang 
+penting, yaitu sebagai berikut.
+
+1) Produksi Total atau Total Product (TP), yaitu jumlah total output yang 
+diproduksi selama waktu tertentu. Jika satu faktor produksi dijaga konstan, 
+produk total akan berubah menurut banyak sedikitnya faktor produksi 
+variabel yang digunakan.
+2) Produk Rata-Rata atau Average Product (AP), yaitu produk total di bagi 
+dengan jumlah unit faktor produksi variabel yang digunakan. 
+3) Produk Marjinal atau Marginal Product (MP), adalah tambahan dalam 
+produk total karena penambahan penggunaan satu unit faktor produksi 
+variabel.
+
+## B. Circular Flow Diagram
+
+Kegiatan ekonomi yang dilakukan oleh manusia, pada dasarnya 
+merupakan proses pertukaran sumber daya yang dimiliki rumah tangga 
+konsumen (RTK) dengan rumah tangga perusahaan (RTP), dan rumah 
+tangga pemerintah/government (RTG). Kegiatan ekonomi yang begitu 
+banyak dan kompleks dapat dipahami dengan lebih mudah melalui suatu 
+model ekonomi.
+
+1. Sektor RTK membeli barang dan jasa dari sektor RTP di pasar barang 
+(product market) dan sebagai balas jasanya, sektor RTP menerima 
+uang. Dalam arus ini, sektor RTK berperan sebagai pembeli barang 
+dan jasa, sedangkan sektor RTP berperan sebagai penjual. RTP 
+menetapkan harga produk berdasarkan biaya tenaga kerja dan 
+keahlian. Harga di pasar barang ditentukan oleh permintaan RTK 
+dan penawaran RTP. Transaksi barang dan jasa terjadi di pasar barang 
+(product market).
+2. Pendapatan RTK yang dibelanjakan untuk barang dan jasa, 
+diperoleh dari penjualan faktor produksi yang dimilikinya. Sektor 
+RTK menawarkan faktor produksi yang dimilikinya kepada sektor 
+RTP. Sebagai balas jasanya, sektor RTK menerima uang sebagai 
+penghasilan RTK. Dalam arus ini, sektor RTK berperan sebagai 
+penjual faktor produksi, sedangkan sektor RTP berperan sebagai 
+pembeli. Harga di pasar faktor produksi ini ditentukan oleh 
+penawaran RTK dan permintaan RTP. Transaksi ini terjadi di pasar 
+faktor produksi.
+3. Pemerintah (RTG) menggunakan pendapatan dari pajak untuk membeli 
+barang dan jasa dari pasar faktor produksi, pasar barang, dan RTP. 
+Barang dan jasa tersebut digunakan untuk memberikan pelayanan 
+kepada masyarakat.
+
+Beberapa ahli ekonomi berpendapat bahwa perekonomian pasar (market 
+economy), yaitu perekonomian yang berdasarkan pada mekanisme pasar 
+yang dapat bekerja dengan efisien. Adapun beberapa ahli ekonomi 
+lainnya berpendapat bahwa perekonomian pasar akan mencapai hasil 
+yang memuaskan jika pemerintah ikut campur tangan dalam kehidupan 
+perekonomian. Salah satu bentuk campur tangan pemerintah adalah 
+dengan mengenakan pajak kepada masyarakat yang kemudian digunakan 
+untuk memberikan pelayanan kepada masyarakat.
+
+Di samping sebagai pelaku ekonomi, pemerintah juga berfungsi 
+sebagai pengatur dan pengawas kegiatan ekonomi rumah tangga 
+perusahaan swasta dan koperasi. Tujuannya adalah agar pelaku ekonomi 
+tersebut melakukan kegiatan ekonominya sesuai dengan peraturan yang 
+ada dan tidak merugikan masyarakat.
+
+## C. Peran Konsumen dan Peran Produsen
+
+Peran konsumen dan peran produsen dalam kegiatan ekonomi, yaitu sebagai berikut.
+
+1. Rumah Tangga Konsumen (RTK)
+
+Rumah tangga konsumen merupakan pemilik berbagai faktor 
+produksi (tanah, tenaga kerja, modal, dan keterampilan) yang dibutuhkan 
+baik untuk RTP maupun pemerintah. Jadi, dalam hal ini RTK berperan 
+sebagai penyedia faktor produksi.
+Atas penggunaan berbagai faktor produksi oleh RTP ini, RTK akan 
+memperoleh balas jasa. Bentuk balas jasa ini dapat berupa upah dan gaji untuk 
+tenaga kerja, bunga, dan dividen untuk modal, serta uang sewa untuk tanah 
+dan bangunan. Balas jasa tersebut digunakan RTK untuk membeli berbagai 
+barang dan jasa yang dibutuhkan. Dengan demikian, RTK berperan sebagai 
+pengguna barang dan jasa yang dihasilkan produsen.
+
+3. Rumah Tangga Perusahaan (RTP)
+
+Rumah Tangga Perusahaan (RTP) merupakan sektor yang menggunakan 
+faktor-faktor produksi untuk memproduksi barang yang terus dijual kepada 
+rumah tangga konsumen maupun pemerintah. Dalam menghasilkan 
+berbagai barang tersebut, RTP membeli faktor-faktor produksi dari RTK 
+maupun pemerintah. Jadi, dalam hal kegiatan ekonomi, RTP berperan 
+sebagai penghasil barang dan penyalur barang hingga sampai ke pihak-pihak 
+yang membutuhkan.
