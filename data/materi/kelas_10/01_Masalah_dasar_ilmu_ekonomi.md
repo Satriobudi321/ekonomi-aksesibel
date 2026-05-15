@@ -2,7 +2,7 @@
 
 ## A. kebutuhan manusia 
 
-1. pengertian kebutuhan
+### 1. pengertian kebutuhan
 
 Untuk dapat bertahan hidup, manusia harus memenuhi segala macam 
 kebutuhannya. Kebutuhan manusia ini dapat berupa barang dan jasa. Barang 
@@ -16,9 +16,7 @@ a. Sifat manusia tidak pernah merasa
 puas dengan apa yang telah 
 mereka peroleh dan mereka miliki. 
 
-b. Adanya pertumbuhan penduduk dunia yang tinggi, 
-yaitu rata-rata 2,1 juta jiwa per detik 
-atau sekitar 65 juta orang per tahun.
+b. Adanya pertumbuhan penduduk dunia yang tinggi, yaitu rata-rata 2,1 juta jiwa per detik atau sekitar 65 juta orang per tahun.
 
 c. Kebutuhan manusia sifatnya tidak terbatas, sedangkan sumber daya untuk 
 menghasilkan semua barang dan jasa yang dibutuhkan manusia sifatnya 
@@ -30,23 +28,24 @@ Pilihan yang bersifat individu, misalnya Anda sebagai pelajar dihadapkan
 pada pilihan untuk membeli buku pelajaran atau pakaian. Adapun pilihan 
 kolektif, misalnya membangun jembatan atau memperbaiki selokan.
 
-2. Macam-Macam Kebutuhan
+#### 2. Macam-Macam Kebutuhan
 
 Kebutuhan manusia dapat dikelompokkan menjadi sebagai berikut.
 
- a. Kebutuhan Berdasarkan Intensitas Kegunaanya 
+##### a. Kebutuhan Berdasarkan Intensitas Kegunaanya 
 
 Berdasarkan tingkat kepentingannya, kebutuhan dapat dibagi 
 menjadi sebagai berikut.
 
-1) Kebutuhan Primer atau Kebutuhan Dasar
+###### 1) Kebutuhan Primer atau Kebutuhan Dasar
+
 Kebutuhan primer disebut juga kebutuhan alamiah. Kebutuhan 
 primer merupakan tuntutan secara alamiah yang harus dipenuhi. Manusia 
 harus memenuhi kebutuhan dasarnya, seperti makanan, pakaian, dan 
 perumahan (sandang, pangan, dan papan) untuk mempertahankan 
 kelangsungan hidupnya.
 
-2) Kebutuhan Sekunder atau Kebutuhan Pelengkap 
+###### 2) Kebutuhan Sekunder atau Kebutuhan Pelengkap 
 (Kebutuhan Kultural)
 Setelah kebutuhan primer sudah terpenuhi, manusia masih memerlukan 
 kebutuhan yang lain, yaitu kebutuhan sekunder. Pemenuhan kebutuhan 
@@ -56,18 +55,19 @@ di daerah Lembah Baliem Papua akan berbeda dengan masyarakat di
 Kota Surabaya. Contoh kebutuhan sekunder adalah radio, televisi, buku, 
 dan alat tulis.
 
-3) Kebutuhan Tersier atau Kebutuhan Luks (Kebutuhan Mewah) 
+###### 3) Kebutuhan Tersier atau Kebutuhan Luks (Kebutuhan Mewah) 
 Kebutuhan tersier adalah kebutuhan yang hanya dapat dipenuhi oleh 
 sebagian kecil masyarakat yang memiliki ekonomi biaya tinggi atau orangorang kaya. Ukuran mewah ini sifatnya relatif, artinya satu barang pada satu 
 waktu atau tempat mungkin termasuk kategori mewah (luks), sedangkan 
 pada tempat atau waktu lain mungkin tidak termasuk barang mewah. 
 Contohnya, rumah mewah, mobil mewah, dan berlibur ke luar negeri.
 
-b. Kebutuhan Berdasarkan Sifatnya
+##### b. Kebutuhan Berdasarkan Sifatnya
 
 Berdasarkan sifatnya, kebutuhan dapat dibagi menjadi sebagai berikut. 
 
-1) Kebutuhan Jasmani atau Kebutuhan Badaniah 
+###### 1) Kebutuhan Jasmani atau Kebutuhan Badaniah 
+
 Kebutuhan jasmani adalah kebutuhan yang dirasakan oleh unsur 
 jasmani manusia terhadap barang dan jasa. Unsur jasmani terhadap 
 barang, misalnya, pada saat Anda lapar dan haus, Anda butuh makan 
@@ -75,24 +75,24 @@ dan minum, di waktu udara dingin Anda perlu baju hangat, serta Anda
 perlu berolah raga agar badan Anda sehat. Unsur jasmani terhadap jasa, 
 misalnya, menonton film, liburan, dan tamasya ke kebun binatang.
 
-3) Kebutuhan Rohani 
+###### 3) Kebutuhan Rohani 
 Kebutuhan rohani adalah kebutuhan yang berkenaan dengan rohani. 
 Misalnya, jika seseorang dalam keadaan stress (tekanan jiwa) berat, ia butuh 
 psikiater atau psikolog. Untuk menentramkan jiwa dan rohani manusia 
 butuh beribadah menurut keyakinan agamanya masing-masing.
 
-c. Kebutuhan Berdasarkan Waktu Pemenuhan
+##### c. Kebutuhan Berdasarkan Waktu Pemenuhan
 
 Berdasarkan waktu pemenuhannya, kebutuhan dapat dibagi menjadi 
 sebagai berikut. 
 
-1) Kebutuhan Sekarang 
+###### 1) Kebutuhan Sekarang 
 Kebutuhan sekarang adalah kebutuhan yang harus dipenuhi pada 
 waktu sekarang dan sifatnya tidak dapat ditunda. Misalnya, bagi pelajar 
 kebutuhan akan seragam sekolah, sepatu, buku-buku pelajaran, dan 
 alat-alat tulis merupakan kebutuhan waktu sekarang.
 
-2) Kebutuhan Waktu yang Akan Datang 
+###### 2) Kebutuhan Waktu yang Akan Datang 
 Kebutuhan yang persiapannya dilakukan pada waktu sebelumnya 
 untuk digunakan pada waktu yang akan datang. Contohnya, seseorang 
 menabung untuk memenuhi kebutuhan membangun rumah atau untuk 
@@ -100,17 +100,17 @@ biaya pendidikan anak-anaknya. Jadi, kebutuhan waktu yang akan datang
 sifatnya dapat ditunda. Penundaan pemuasan kebutuhan tersebut biasanya 
 tidak akan memengaruhi kelangsungan hidup sehari-hari.
 
-d. Kebutuhan Berdasarkan Subjek
+##### d. Kebutuhan Berdasarkan Subjek
 
 Berdasarkan subjeknya, kebutuhan dapat dibagi menjadi sebagai berikut.
 
-1) Kebutuhan Perorangan/Individu 
+###### 1) Kebutuhan Perorangan/Individu 
 Kebutuhan perorangan adalah kebutuhan yang pemuasannya 
 ditujukan bagi kepentingan individu yang bersangkutan. Contohnya, 
 kebutuhan akan obat jantung bagi penderita penyakit jantung dan 
 kebutuhan buku-buku pelajaran bagi pelajar.
 
-2) Kebutuhan Kelompok/Masyarakat
+###### 2) Kebutuhan Kelompok/Masyarakat
 Kebutuhan kelompok adalah kebutuhan yang pemuasannya 
 ditujukan bagi kepentingan bersama (kelompok). Misalnya, pasar 
 digunakan untuk berjualan maupun berbelanja dan rumah sakit 
@@ -119,7 +119,7 @@ digunakan sebagai tempat berobat oleh masyarakat.
 
 [Video: macam-macam kebutuhan manusia](https://youtu.be/fpTdWb7GJ30)
 
-3. Barang dan Jasa Pemuas Kebutuhan
+#### 3. Barang dan Jasa Pemuas Kebutuhan
 
 Barang adalah benda-benda yang berwujud, yang digunakan 
 masyarakat untuk memenuhi kebutuhannya atau untuk menghasilkan 
@@ -134,12 +134,12 @@ dan pengajaran yang diberikan oleh guru.
 Barang dan jasa pemuas kebutuhan dapat dikelompokkan berdasarkan cara memperolehnya, kegunaannya dengan barang lain, dan proses 
 produksinya. 
 
-a. Berdasarkan Cara Memperolehnya
+##### a. Berdasarkan Cara Memperolehnya
 
 Berdasarkan cara memperolehnya, barang dan jasa pemuas kebutuhan 
 dibedakan sebagai berikut. 
 
-1) Barang Ekonomi (Economic Goods)
+###### 1) Barang Ekonomi (Economic Goods)
 Barang ekonomi adalah barang pemuas kebutuhan yang untuk 
 memperoleh nya diperlukan pengorbanan sumber daya ekonomi, 
 contohnya, baju, minuman, dan pakaian. Barang ekonomi dapat 
@@ -151,45 +151,43 @@ dan makanan. Adapun barang produksi adalah barang yang secara tidak
 langsung digunakan untuk memenuhi kebutuhan manusia karena harus 
 mengalami beberapa proses produksi, misalnya, benang menjadi kain.
 
-2) Barang Bebas (Free Goods)
-Barang bebas adalah barang pemuas kebutuhan yang untuk 
-memperolehnya tidak diperlukan pengorbanan sumber daya ekonomi. 
+###### 2) Barang Bebas (Free Goods)
+Barang bebas adalah barang pemuas kebutuhan yang untuk memperolehnya tidak diperlukan pengorbanan sumber daya ekonomi. 
 Oleh karena itu barang bebas tidak memiliki “harga”. Contohnya, udara, 
 sinar matahari, air di daerah pedesaan, dan air laut di daerah pantai.
 
-b. Berdasarkan Kegunaan dalam Hubungannya 
-dengan Barang Lain
+##### b. Berdasarkan Kegunaan dalam Hubungannya dengan Barang Lain
 
 Berdasarkan kegunaan dalam hubungannya dengan barang lain, 
 barang dan jasa pemuas kebutuhan dibedakan menjadi barang substitusi 
 (menggantikan) dan barang komplementer (melengkapi).
 
-1) Barang Substitusi 
+###### 1) Barang Substitusi 
 Barang substitusi adalah barang yang memiliki kegunaan untuk 
 menggantikan barang lain. Misalnya, kopi dapat digantikan teh untuk 
 minum dan pena dapat digantikan pensil untuk menulis.
 
-3) Barang Komplementer
+###### 3) Barang Komplementer
 Barang komplementer adalah barang yang memiliki kegunaan untuk 
 melengkapi barang lain. Barang tersebut akan bermanfaat dalam memenuhi 
 kebutuhan manusia, jika digunakan secara bersama-sama. Contohnya teh 
 dengan gula, CPU komputer dengan monitor, dan sepatu dengan kaos kaki.
 
-c. Berdasarkan Proses Produksinya
+##### c. Berdasarkan Proses Produksinya
 
 Berdasarkan proses produksinya, barang dan jasa pemuas kebutuhan 
 dibedakan sebagai berikut.
 
-1) Barang Mentah
+###### 1) Barang Mentah
 Barang mentah adalah barang yang belum mengalami proses produksi 
 (pengolahan). Contohnya rotan, kayu, padi, dan tembakau.
 
-2) Barang Setengah Jadi
+###### 2) Barang Setengah Jadi
 Barang setengah jadi adalah barang yang sudah mengalami proses 
 produksi, tetapi belum dapat digunakan untuk memenuhi kebutuhan 
 manusia secara sempurna. Contohnya, benang, semen, dan kulit.
 
-3) Barang Jadi
+###### 3) Barang Jadi
 Barang jadi adalah barang dan jasa pemuas kebutuhan manusia yang 
 sudah mengalami proses produksi secara tuntas atau sempurna dan dapat 
 digunakan untuk memenuhi kebutuhan. Contohnya, pakaian, sepatu, 
@@ -224,13 +222,15 @@ Sumber daya ekonomi dapat dikelompokkan menjadi sumber daya
 alam, sumber daya manusia, sumber daya modal, dan sumber daya 
 kewirausahaan (entrepreneurship).
 
-1. Sumber Daya Alam
+### 1. Sumber Daya Alam
+   
 Sumber daya alam dapat dibedakan menjadi sumber daya alam 
 yang dapat diperbarui (renewable resources) dan sumber daya alam yang 
 tidak dapat diperbarui (non renewable resources). Sumber daya alam 
 yang dapat diperbarui sumber daya alam yang memiliki kemampuan 
 untuk mempertahankan atau mengganti diri (reproduksi) melalui proses 
 alami atau dengan campur tangan manusia dan manajemen yang tepat. 
+
 Contoh sumber daya alam yang dapat diperbarui adalah sebagian besar 
 tanaman dan hewan-hewan, air, dan udara. Adapun sumber daya alam 
 yang tidak dapat diperbarui adalah sumber daya alam yang tidak memiliki 
@@ -241,7 +241,9 @@ walaupun ada yang dapat digunakan berkali-kali seperti minyak bumi,
 mineral, dan kayu hutan tropis.
 Sumber daya alam tersebut, terutama sumber daya alam yang tidak 
 dapat diperbarui jika terus dieksploitasi lama kelamaan akan habis, 
-sedangkan kebutuhan manusia akan tetap ada. Sebagai contoh, menurut 
+sedangkan kebutuhan manusia akan tetap ada. 
+
+Sebagai contoh, menurut 
 Lucky Sondakh, usaha pertambangan PT Freeport di Timika, Irian Jaya 
 dapat menghasilkan sekitar 45.000 kg emas per tahun, dan PT New 
 Mount di Sulawesi Utara menghasilkan sekitar 10.000 kg emas per tahun. 
@@ -255,7 +257,7 @@ dan minyak tanah, sehingga terjadi antrean panjang konsumen yang
 membutuhkannya. Hal ini menunjukkan bahwa sumber daya alam 
 (berupa bensin dan minyak tanah) adalah langka atau terbatas.
 
-2. Sumber Daya Manusia
+### 2. Sumber Daya Manusia
 Dalam kegiatan ekonomi, sumber daya manusia merupakan faktor 
 produksi paling penting karena berbagai macam pekerjaan dalam berbagai 
 tingkat keahlian, keterampilan, dan pengetahuan dilakukan oleh tenaga 
@@ -301,7 +303,7 @@ ini menunjukkan bahwa kelangkaan tenaga kerja dapat terjadi pada semua
 tingkat keahlian dan pendidikan bergantung pada tempat (negara) dan 
 waktu tertentu.
 
-3. Sumber Daya Modal
+### 3. Sumber Daya Modal
 Sumber daya modal tidak terbatas berupa uang, tetapi dapat pula berupa 
 barang modal, seperti peralatan, mesin-mesin, dan bangunan. Modal dalam 
 definisinya yang paling luas adalah segala sesuatu yang sudah diproduksi yang 
@@ -319,7 +321,7 @@ tertunda juga karena terbatasnya modal. Jadi, kelangkaan modal bukan berarti
 modal yang ada sedikit, tetapi karena adanya ketidakseimbangan akan 
 kebutuhan modal dengan jumlah modal yang tersedia.
 
-4. Sumber Daya Kewirausahaan (Entrepreneurship)
+### 4. Sumber Daya Kewirausahaan (Entrepreneurship)
 Menurut Soeparman Soemahamidjaja, orang kali pertama yang 
 menggunakan kata “entrepreneurship” adalah Richard Cantillon dalam 
 ‘Essai sur la nature du commerce’ (1755), sebutan bagi para pedagang yang 
@@ -346,7 +348,8 @@ masalah ekonomi yang mendasar. Ketiga masalah ekonomi antara satu dan yang
 lainnya memiliki hubungan yang sangat erat. Ketiga masalah pokok ekonomi 
 yang dimaksud, yaitu sebagai berikut.
 
-1. Barang Apa (What) yang Harus Diproduksi?
+### 1. Barang Apa (What) yang Harus Diproduksi?
+
 Bagi pemerintah atau produsen, masalah ekonomi pertama yang harus 
 dihadapi dan dipecahkan adalah barang apa yang harus diproduksi dan berapa 
 banyak? Dalam hubungannya dengan masalah tersebut, pemerintah atau 
@@ -361,7 +364,8 @@ sedikit barang-barang konsumsi seperti roti dan lebih banyak memproduksi
 barang-barang produksi seperti pabrik roti yang dapat menyediakan roti yang 
 lebih banyak untuk masa yang akan datang?
 
-2. Bagaimana (How) Barang Harus Diproduksi?
+### 2. Bagaimana (How) Barang Harus Diproduksi?
+
 Masalah ekonomi berikutnya yang harus dihadapi dan dipecahkan adalah 
 bagaimana (how) barang tersebut harus diproduksi. Masalah ini berkaitan 
 dengan siapa yang akan memproduksi barang tersebut, dengan menggunakan 
@@ -376,7 +380,8 @@ pertanian modern (traktor dan mesin pembasmi hama) ataukah dilakukan
 secara tradisional (bajak, cangkul, dan semprotan hama)? Selanjutnya, apakah 
 produksi akan dilakukan secara massal yang padat modal atau padat karya?
 
-3. Untuk Siapa (for Whom) Barang Harus Diproduksi?
+### 3. Untuk Siapa (for Whom) Barang Harus Diproduksi?
+
 Permasalahan berikutnya yang harus dihadapi dan dipecahkan adalah untuk 
 siapa (for whom) barang itu diproduksi? Masalah ini berkaitan dengan siapa 
 yang akan menikmati dan memperoleh manfaat dari barang tersebut. Sebab 
@@ -455,7 +460,8 @@ pasar (market economy system), sistem ekonomi komando atau terpimpin
 (command economy system), sistem ekonomi campuran (mixed economy 
 system), sistem ekonomi Pancasila, dan sistem ekonomi syariah.
 
-1. Sistem Ekonomi Pasar (Market Economy System)
+### 1. Sistem Ekonomi Pasar (Market Economy System)
+
 Dalam sistem perekonomian pasar keputusan mengenai masalahmasalah ekonomi yang utama merupakan hasil dari keputusan bebas 
 yang dibuat oleh produsen dan konsumen perorangan. Dengan kata lain, 
 masalah-masalah ekonomi yang utama tersebut diserahkan kepada pasar. 
@@ -480,8 +486,8 @@ Sistem ekonomi pasar ini pada awalnya dianut negara Amerika Serikat
 dan sebagian besar negara-negara liberal di dunia, tetapi secara murni, sekarang 
 ini tidak ada satu pun negara yang menganut sistem ekonomi pasar.
 
-2. Sistem Ekonomi Komando (Command Economy 
-System)
+### 2. Sistem Ekonomi Komando (Command Economy System)
+
 Dalam sistem ekonomi komando, perilaku ekonomi ditentukan 
 oleh pemerintah yang mengambil keputusan atas sebagian besar masalah 
 ekonomi tentang apa yang harus diproduksi, bagaimana mem produksinya, dan siapa yang mengonsumsinya. Sistem perekonomian komando 
@@ -505,7 +511,8 @@ masalah-masalah ekonomi utama melalui kepemilikan dan penguasaan atas
 sumber daya ekonomi melalui kekuasaan untuk mengambil dan memaksakan 
 keputusan kepada anggota masyarakatnya.
 
-3. Sistem Perekonomian Campuran (Mixed Economy System)
+### 3. Sistem Perekonomian Campuran (Mixed Economy System)
+   
 Kajian tentang perekonomian pasar, sistem perekonomian komando, dan 
 sistem perekonomian campuran dimaksudkan untuk mempelajari prinsipprinsip dasar. Dalam faktanya di dunia ini, tidak ada satu pun negara yang 
 melaksanakan satu sistem perekonomian secara murni. Semua negara 
@@ -532,7 +539,8 @@ dan masalah pencemaran lingkungan. Di Uni Soviet, mantan Presiden
 Gorbachev melakukan penataan kembali dan politik keterbukaan. Negaranegara Eropa Timur telah menetapkan pilihan untuk bergerak ke arah 
 sistem pasar bebas, untuk memecahkan masalah ekonominya.
 
-4. Sistem Ekonomi Pancasila
+### 4. Sistem Ekonomi Pancasila
+   
 Dua jenis perekonomian yang pernah dilaksanakan di negara 
 Indonesia adalah ekonomi liberal dan ekonomi komando. Setiap jenis 
 perekonomian tersebut memiliki kekuatan dan kelemahan. Kelemahannya yaitu jenis perekonomian ini terlalu merugikan dan liberal di 
@@ -566,6 +574,7 @@ neraca pembayaran.
 Boediono memulai dengan menonjolkan lima ciri dari perekonomian 
 Pancasila yang memiliki kaitan langsung dengan masalah ekonomi makro 
 beserta cara pengendaliannya, kelima ciri khas tersebut, yaitu sebagai berikut.
+
 a. Peranan dominan dari koperasi, bersama dengan perusahaanperusahaan negara dan perusahaan swasta.
 b. Memandang manusia secara utuh. “... manusia bukan ‘economic 
 man’ tetapi juga ‘social and religious man’ dan sifat manusia yang 
@@ -591,7 +600,7 @@ penting dalam pengendalian makro. Para pelaku ekonomi dalam perekonomian ini
 lebih responsif terhadap hal semacam ini dibanding dengan para pelaku ekonomi 
 dalam perekonomian yang dilandaskan pada materialisme semata-mata.
 
-5. Sistem Ekonomi Syariah
+### 5. Sistem Ekonomi Syariah
 Sistem ekonomi syariah menarik untuk dikaji karena diharapkan 
 dapat memecahkan masalah-masalah yang melanda ekonomi dunia. 
 Kemampuan ekonomi syariah di Indonesia dibuktikan dengan tidak 
@@ -604,6 +613,7 @@ Islam.
 
 Dalam kehidupan ekonomi, sistem ekonomi syariah dapat dilihat 
 penerapannya, yaitu sebagai berikut.
+
 a. Islamic Development Bank (IDB) atau Bank Pembangunan Islam 
 yang tidak menerapkan sistem bunga (interest) dan ternyata mampu 
 bersaing dengan bank-bank kapitalis (barat).
@@ -615,7 +625,7 @@ c. Pusat-pusat perdagangan berdasarkan syariah.
 Adapun nilai-nilai dasar ekonomi syariah menurut A. M. Saefudin
 sebagaimana dikutip oleh Muhammad Daud Ali, yaitu sebagai berikut.
 
-a. Nilai Dasar Pemilikan
+#### a. Nilai Dasar Pemilikan
 
 Berdasarkan nilai dasar pemilikan nilai-nilai dasar ekonomi syariah 
 meliputi.
@@ -633,7 +643,7 @@ menjadi hajat hidup orang banyak harus menjadi milik umum atau
 negara atau sekurang-kurangnya dikuasai negara untuk kepentingan 
 umum atau orang banyak
 
-b. Nilai Dasar Keseimbangan
+#### b. Nilai Dasar Keseimbangan
 Keseimbangan merupakan nilai dasar yang memengaruhi berbagai aspek 
 tingkah laku ekonomi seorang muslim. Asas keseimbangan ini, misalnya, 
 terwujud dalam kesederhanaan, hemat, dan menjauhi pemborosan. Nilai 
@@ -641,7 +651,7 @@ dasar keseimbangan ini harus dijaga sebaik-baiknya bukan saja antara kepentingan
 keseimbangan antara kepentingan perorangan dan kepentingan umum. Di 
 samping itu, harus juga dipelihara keseimbangan antara hak dan kewajiban. 
 
-c. Nilai Dasar Keadilan
+#### c. Nilai Dasar Keadilan
 Dalam Islam, keadilan adalah titik tolak sekaligus proses dan tujuan semua 
 tindakan manusia. Dalam hubungan ini perlu dikemukakan sebagai berikut.
 1) Keadilan itu harus diterapkan pada semua bidang kehidupan ekonomi. 
@@ -657,13 +667,15 @@ waktunya).
 Adapun nilai-nilai instrumental dalam sistem ekonomi syariah, yaitu sebagai 
 berikut.
 
-a. Zakat
+#### a. Zakat
+
 Zakat adalah salah satu rukun Islam yang merupakan kewajiban 
 agama yang dibebankan atas harta kekayaan seseorang menurut aturan 
 tertentu. Zakat merupakan sarana komunikasi utama antara manusia 
 dan manusia lain dalam masyarakat.
 
-b. Kerja Sama Ekonomi
+#### b. Kerja Sama Ekonomi
+
 Kerja sama merupakan watak masyarakat ekonomi menurut ajaran Islam. 
 Kerja sama tersebut harus tercermin dalam segala tingkat kegiatan ekonomi, 
 produksi, distribusi, baik barang maupun jasa. Salah satu bentuk kerja sama 
