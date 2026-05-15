@@ -1,4 +1,4 @@
-# Soal: Konsep Dasar Ilmu Ekonomi
+# Soal: masalah dasar ekonomi
 
 ## Soal 1
 
