@@ -116,7 +116,6 @@ ditujukan bagi kepentingan bersama (kelompok). Misalnya, pasar
 digunakan untuk berjualan maupun berbelanja dan rumah sakit 
 digunakan sebagai tempat berobat oleh masyarakat. 
 
-
 [Video: macam-macam kebutuhan manusia](https://youtu.be/fpTdWb7GJ30)
 
 #### 3. Barang dan Jasa Pemuas Kebutuhan
@@ -192,6 +191,8 @@ Barang jadi adalah barang dan jasa pemuas kebutuhan manusia yang
 sudah mengalami proses produksi secara tuntas atau sempurna dan dapat 
 digunakan untuk memenuhi kebutuhan. Contohnya, pakaian, sepatu, 
 kursi, dan lemari.
+
+[Video: jenis-jenis barang dan jasa sebagai pemuas kebutuhan](https://youtu.be/wfUvTtP_Rmg)
 
 ## B. Kelangkaan Sumber Daya Ekonomi 
 
@@ -339,6 +340,8 @@ daya yang ada untuk memenuhi kebutuhan masyarakat akan barang
 dan jasa. Orang-orang yang memiliki kualitas sebagai entrepreneurship
 ini jumlahnya terbatas atau langka.
 
+[Video: kelangkaan sumber daya ekonomi](https://youtu.be/9ftzwzUjvzw)
+
 ## C. Masalah Pokok Ekonomi
 
 Berbagai persoalan ekonomi yang mendasar akan dihadapi oleh setiap 
@@ -394,6 +397,8 @@ Dengan adanya ketiga masalah pokok ekonomi tersebut, setiap manusia
 dituntut untuk menentukan pilihan atau keputusan dalam mempergunakan 
 sumber daya atau faktor produksi sehingga dapat mencari alternatif dalam 
 menghadapi sumber daya yang langka.
+
+[Video: masalah pokok ekonomi](https://youtu.be/Wz1org27ImY)
 
 ## D. Biaya Oportunitas.
 
@@ -692,3 +697,6 @@ c. Peranan Negara
 Peranan negara umumnya pemerintah pada khususnya sangat menentukan 
 dalam pelaksanaan nilai-nilai sistem ekonomi syariah. Peranan itu diperlukan 
 dalam aspek hukum, perencanaan, dan pengawasan alokasi atau distribusi
+
+[Video: sistem ekonomi](https://youtu.be/1wyfj9VSK98)  
+
