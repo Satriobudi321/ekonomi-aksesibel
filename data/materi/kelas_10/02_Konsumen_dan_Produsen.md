@@ -2,7 +2,7 @@
 
 ## A. Perilaku Konsumen dan Perilaku Produsen
 
-1. Perilaku Konsumen
+### 1. Perilaku Konsumen
 Dalam kehidupan sehari-hari, setiap orang harus melakukan pilihan. 
 Pilihan tersebut harus dilakukan agar pemenuhan kebutuhan dapat mencapai 
 utilitas yang maksimal. Setiap orang berbeda dalam menentukan 
@@ -14,7 +14,7 @@ berbagai pilihan yang ada akan membentuk pola perilaku konsumen.
 Dalam teori perilaku konsumen, ada dua pendekatan yang digunakan, 
 yaitu sebagai berikut.
 
-a. Pendekatan Utilitas Kardinal (Cardinal Approach)
+#### a. Pendekatan Utilitas Kardinal (Cardinal Approach)
 
 Pendekatan utilitas kardinal menyatakan bahwa utilitas dapat diukur 
 secara langsung melalui angka-angka. Oleh karena itu, pendekatan ini disebut 
@@ -44,7 +44,7 @@ utilitas tambahan tersebut, utilitas total akan meningkat dengan laju
 yang semakin menurun. Nilai utilitas total akan maksimum pada saat 
 nilai utilitas marjinal sama dengan nol (MU = 0).
 
-1) Hukum Gossen I
+##### 1) Hukum Gossen I
 
 Berdasarkan pola konsumsi manusia dalam mengonsumsi satu jenis 
 barang untuk mencapai utilitas maksimum, lahirlah Hukum Gossen 
@@ -56,7 +56,7 @@ terus-menerus, utilitas yang dinikmati konsumen akan semakin tinggi, tetapi
 setiap tambahan konsumsi satu unit barang akan memberikan tambahan 
 utilitas yang semakin kecil.” 
 
-2) Hukum Gossen II
+##### 2) Hukum Gossen II
    
 Tidak dapat dipungkiri, manusia memiliki kebutuhan yang tidak 
 terbatas. Manusia memiliki banyak kebutuhan, mulai kebutuhan yang 
@@ -70,7 +70,7 @@ barang dengan tingkat pendapatan dan harga barang tertentu, konsumen tersebut
 akan mencapai tingkat optimisasi konsumsinya pada saat rasio marginal utility
 (MU) berbanding harga sama untuk semua barang yang dikonsumsinya.”
 
-b. Pendekatan Utilitas Ordinal (Ordinal Approach)
+#### b. Pendekatan Utilitas Ordinal (Ordinal Approach)
 
 Dewasa ini, para ahli ekonomi menolak gagasan tentang utilitas yang 
 dapat diukur dengan angka-angka terhadap barang yang dikonsumsi seharihari. Kini telah dikembangkan pendekatan baru untuk menjelaskan prinsip 
@@ -86,8 +86,9 @@ Jika dilihat perilaku konsumen dalam mengonsumsi suatu barang
 dibedakan menjadi dua macam, yaitu perilaku konsumen rasional dan 
 perilaku konsumen tidak rasional.
 
-a) Perilaku Konsumen Rasional
- Suatu konsumsi dapat dikatakan rasional jika memerhatikan hal-hal 
+##### a) Perilaku Konsumen Rasional
+
+Suatu konsumsi dapat dikatakan rasional jika memerhatikan hal-hal 
 berikut:
 1) barang tersebut dapat memberikan kegunaan optimal bagi 
 konsumen;
@@ -95,8 +96,9 @@ konsumen;
 3) mutu barang terjamin;
 4) harga sesuai dengan kemampuan konsumen.
    
-b) Perilaku Konsumen tidak Rasional
- Suatu perilaku dalam mengonsumsi dapat dikatakan tidak rasional jika 
+##### b) Perilaku Konsumen tidak Rasional
+
+Suatu perilaku dalam mengonsumsi dapat dikatakan tidak rasional jika 
 konsumen tersebut membeli barang tanpa dipikirkan kegu naannya 
 terlebih dahulu. Contohnya, yaitu:
 1) tertarik dengan promosi atau iklan baik di media cetak maupun 
@@ -105,16 +107,16 @@ elektronik;
 3) ada bursa obral atau bonus-bonus dan banjir diskon;
 4) prestise atau gengsi.
 
-2. Keseimbangan Konsumen
+### 2. Keseimbangan Konsumen
 
 Untuk mengetahui bagaimana konsumen mengalokasikan pendapatannya 
 di antara dua produk, perlu digabungkan pengertian tentang apa yang ingin 
 diperbuat dan apa yang dapat diperbuat oleh konsumen. Ini dilakukan dengan 
 menggabungkan peta indiferen dan kurva garis anggaran konsumen.
 
-3. Perilaku Produsen
+### 3. Perilaku Produsen
    
-a. Pengertian Produksi
+#### a. Pengertian Produksi
 
 Sebelum memahami perilaku produsen, terlebih dahulu pahami 
 makna produksi itu sendiri. Produksi merupakan kegiatan menghasilkan 
@@ -141,7 +143,7 @@ melalui tahap demi tahap secara berurutan.
 Dilihat dari bidang garapannya, produksi dapat dikelompokkan 
 menjadi sebagai berikut.
 
-1) Produksi Ekstraktif
+##### 1) Produksi Ekstraktif
    
 Kegiatan produksi yang dilakukan pada perusahaan ekstraktif, yaitu 
 dengan cara mengambil kekayaan alam yang dapat digunakan untuk 
@@ -149,14 +151,15 @@ memenuhi kebutuhan manusia tanpa mengubah sifat maupun bentuk
 barangnya. Contohnya, adalah perusahaan penambangan dan perusahaan 
 penangkapan ikan di laut.
 
-2) Produksi Agraris
+##### 2) Produksi Agraris
+
 Kegiatan produksi yang dilakukan pada perusahaan agraris, yaitu 
 dengan cara mengolah sumber daya alam terlebih dahulu sehingga menghasilkan barang baru. Misalnya, mengolah tanah pertanian, membuat 
 perkebunan kelapa sawit, dan pemeliharaan ikan bandeng. Dengan 
 demikian, pengertian agraris tidak hanya mencakup pertanian saja, tetapi 
 juga peternakan.
 
-3) Produksi Industri
+##### 3) Produksi Industri
    
 Kegiatan yang dilakukan pada perusahaan industri berhubungan 
 dengan usaha dan kegiatan manusia mengolah bahan mentah atau bahan 
@@ -165,7 +168,7 @@ dasarnya adalah usaha untuk mempertinggi kegunaan dan nilai barang
 untuk memenuhi kebutuhan manusia. Contohnya, industri penggergajian kayu, industri sepeda motor, industri mobil, industri pesawat 
 terbang, industri pakan ayam, dan industri obat-obatan.
 
-4) Produksi Perdagangan
+##### 4) Produksi Perdagangan
    
 Kegiatan yang dilakukan perdagangan berhubungan dengan 
 penyaluran hasil produksi dari produsen kepada konsumen. Dengan 
@@ -181,7 +184,7 @@ pedagang eceran menjualnya ke konsumen.
 (c) Secara tidak langsung, yaitu melalui beberapa perantara. Contoh dari 
 produsen ke grosir. Kemudian, ke pedagang eceran baru ke konsumen.
 
-5) Produksi Jasa
+##### 5) Produksi Jasa
    
 Walaupun produksi jasa tidak berwujud konkret, tetapi manfaatnya 
 dapat dirasakan. Adapun jenis-jenis dari perusahaan jasa, yaitu:
@@ -192,7 +195,7 @@ perawatan dan perbaikan;
 (d) jasa sosial atau personal, seperti restoran dan kesehatan;
 (e) administrasi publik, seperti pendidikan dan pemerintahan.
 
-b. Fungsi Produksi
+#### b. Fungsi Produksi
 
 Proses produksi memerlukan sejumlah faktor-faktor produksi (input) 
 yang digunakan dan masuk dalam proses produksi untuk menghasilkan 
@@ -246,7 +249,7 @@ Dalam fungsi produksi tersebut, barang modal dianggap sebagai
 faktor produksi tetap. Adapun tenaga kerja merupakan faktor produksi 
 variabel.
 
-c. Biaya Produksi
+#### c. Biaya Produksi
 
 Biaya produksi merupakan sebagian keseluruhan faktor produksi yang 
 dikorbankan dalam proses produksi untuk menghasilkan produk. Dalam 
@@ -256,7 +259,8 @@ definisi tersebut, pengertian biaya produksi adalah keseluruhan biaya yang
 dikorbankan untuk menghasilkan produk hingga produk itu sampai di 
 pasar, atau sampai ke tangan konsumen.
 
-1) Komponen Biaya Produksi
+##### 1) Komponen Biaya Produksi
+
 Berdasarkan komponen yang menyusunnya, biaya produksi meliputi 
 unsur-unsur: 
 (a) bahan baku atau bahan dasar, termasuk bahan setengah jadi;
@@ -269,18 +273,22 @@ unsur-unsur:
 biaya angkutan dan pengiriman, dan biaya reklame atau iklan;
 (h) pajak perusahaan.
 
-2) Jenis-Jenis Biaya Produksi
+##### 2) Jenis-Jenis Biaya Produksi
+
 Penggolongan jenis-jenis biaya produksi dapat dikelompokkan 
 menjadi sebagai berikut.
+
 (a) Biaya tetap/fixed cost (FC), yaitu biaya yang dalam periode waktu 
 tertentu jumlahnya tetap, tidak bergantung pada jumlah produk 
 yang dihasilkan. Contohnya, penyusutan peralatan, sewa gedung atau 
 penyusutan gedung, pajak perusahaan, dan biaya administrasi.
+
 (b) Biaya variabel/variable cost (VC), yaitu biaya yang jumlahnya berubahubah sesuai dengan jumlah produk yang dihasilkan. Dalam hal ini, 
 semakin banyak jumlah produk yang dihasilkan, semakin besar 
 pula jumlah biaya variabelnya. Contohnya, biaya bahan baku dan 
 upah tenaga kerja yang dibayar berdasarkan jumlah produk yang 
 dihasilkannya.
+
 (c) Biaya total/total cost (TC) adalah jumlah seluruh biaya tetap dan 
 biaya variabel yang dikeluarkan oleh perusahaan untuk menghasilkan 
 sejumlah produk dalam suatu periode tertentu. Berdasarkan pengertian 
@@ -304,7 +312,7 @@ MC karena adanya perluasan produksi yang dilakukan perusahaan dalam
 rangka menambah jumlah produk yang dihasil kannya. MC dapat dihitung 
 dengan cara membagi tambahan TC (ΔTC) dengan tambahan Q (ΔQ). 
 
-d. Hukum Pertambahan Hasil yang Semakin Berkurang 
+#### d. Hukum Pertambahan Hasil yang Semakin Berkurang 
 
 (The Law of Diminishing Returns)
 Berkaitan dengan fungsi produksi, terdapat tiga konsep produksi yang 
@@ -370,7 +378,7 @@ ada dan tidak merugikan masyarakat.
 
 Peran konsumen dan peran produsen dalam kegiatan ekonomi, yaitu sebagai berikut.
 
-1. Rumah Tangga Konsumen (RTK)
+### 1. Rumah Tangga Konsumen (RTK)
 
 Rumah tangga konsumen merupakan pemilik berbagai faktor 
 produksi (tanah, tenaga kerja, modal, dan keterampilan) yang dibutuhkan 
@@ -383,7 +391,7 @@ dan bangunan. Balas jasa tersebut digunakan RTK untuk membeli berbagai
 barang dan jasa yang dibutuhkan. Dengan demikian, RTK berperan sebagai 
 pengguna barang dan jasa yang dihasilkan produsen.
 
-3. Rumah Tangga Perusahaan (RTP)
+### 2. Rumah Tangga Perusahaan (RTP)
 
 Rumah Tangga Perusahaan (RTP) merupakan sektor yang menggunakan 
 faktor-faktor produksi untuk memproduksi barang yang terus dijual kepada 
