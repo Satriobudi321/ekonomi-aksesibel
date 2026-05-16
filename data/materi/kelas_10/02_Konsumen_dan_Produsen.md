@@ -105,7 +105,7 @@ terlebih dahulu. Contohnya, yaitu:
 elektronik;
 2) memiliki merek yang sudah dikenal banyak konsumen;
 3) ada bursa obral atau bonus-bonus dan banjir diskon;
-4) prestise atau gengsi.
+4) prestise atau gengsi.    
 
 ### 2. Keseimbangan Konsumen
 
@@ -113,6 +113,8 @@ Untuk mengetahui bagaimana konsumen mengalokasikan pendapatannya
 di antara dua produk, perlu digabungkan pengertian tentang apa yang ingin 
 diperbuat dan apa yang dapat diperbuat oleh konsumen. Ini dilakukan dengan 
 menggabungkan peta indiferen dan kurva garis anggaran konsumen.
+
+[Video: perilaku konsumen](https://youtu.be/uQ__TBpFb8o)
 
 ### 3. Perilaku Produsen
    
@@ -195,6 +197,8 @@ perawatan dan perbaikan;
 (d) jasa sosial atau personal, seperti restoran dan kesehatan;
 (e) administrasi publik, seperti pendidikan dan pemerintahan.
 
+
+
 #### b. Fungsi Produksi
 
 Proses produksi memerlukan sejumlah faktor-faktor produksi (input) 
@@ -248,6 +252,10 @@ L = labor atau tenaga kerja
 Dalam fungsi produksi tersebut, barang modal dianggap sebagai 
 faktor produksi tetap. Adapun tenaga kerja merupakan faktor produksi 
 variabel.
+
+[Video: fungsi produksi](https://youtu.be/UpV5HIiGgbU)     
+
+
 
 #### c. Biaya Produksi
 
@@ -327,6 +335,8 @@ dengan jumlah unit faktor produksi variabel yang digunakan.
 3) Produk Marjinal atau Marginal Product (MP), adalah tambahan dalam 
 produk total karena penambahan penggunaan satu unit faktor produksi 
 variabel.
+
+[Video: perilaku produsen](https://youtu.be/1U3p7vxd81w)    
 
 ## B. Circular Flow Diagram
 
