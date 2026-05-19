@@ -197,7 +197,7 @@ perawatan dan perbaikan;
 (d) jasa sosial atau personal, seperti restoran dan kesehatan;
 (e) administrasi publik, seperti pendidikan dan pemerintahan.
 
-
+[Video: jenis-jenis produksi](https://youtu.be/YTix4apNGHg)
 
 #### b. Fungsi Produksi
 
@@ -253,9 +253,7 @@ Dalam fungsi produksi tersebut, barang modal dianggap sebagai
 faktor produksi tetap. Adapun tenaga kerja merupakan faktor produksi 
 variabel.
 
-[Video: fungsi produksi](https://youtu.be/UpV5HIiGgbU)     
-
-
+[Video: fungsi produksi](https://youtu.be/wDiqH3FAtPc)
 
 #### c. Biaya Produksi
 
@@ -335,8 +333,6 @@ dengan jumlah unit faktor produksi variabel yang digunakan.
 3) Produk Marjinal atau Marginal Product (MP), adalah tambahan dalam 
 produk total karena penambahan penggunaan satu unit faktor produksi 
 variabel.
-
-[Video: perilaku produsen](https://youtu.be/1U3p7vxd81w)    
 
 ## B. Circular Flow Diagram
 
