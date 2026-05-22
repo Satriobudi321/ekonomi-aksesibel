@@ -697,3 +697,4 @@ tanah adalah tegak lurus sejajar dengan sumbu harga. Hal ini disebabkan
 penawaran tanah dianggap tidak dipengaruhi oleh harga. Adapun dalam 
 penawaran tenaga kerja merupakan total jumlah keinginan bekerja yang diukur dengan jam kerja yang dilakukan pekerja di pasar tenaga kerja. 
 
+[Video: pasar input dan pasar output](https://youtu.be/-1oNv6N6L18) 
