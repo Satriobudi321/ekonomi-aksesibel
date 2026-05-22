@@ -318,6 +318,8 @@ MC karena adanya perluasan produksi yang dilakukan perusahaan dalam
 rangka menambah jumlah produk yang dihasil kannya. MC dapat dihitung 
 dengan cara membagi tambahan TC (ΔTC) dengan tambahan Q (ΔQ). 
 
+[Video: biaya produksi](https://youtu.be/ciJ-6ns1djo)
+
 #### d. Hukum Pertambahan Hasil yang Semakin Berkurang 
 
 (The Law of Diminishing Returns)
@@ -379,6 +381,8 @@ sebagai pengatur dan pengawas kegiatan ekonomi rumah tangga
 perusahaan swasta dan koperasi. Tujuannya adalah agar pelaku ekonomi 
 tersebut melakukan kegiatan ekonominya sesuai dengan peraturan yang 
 ada dan tidak merugikan masyarakat.
+
+[Video: circular flow diagram](https://youtu.be/o0kBjCXM1W0)
 
 ## C. Peran Konsumen dan Peran Produsen
 
