@@ -145,7 +145,11 @@ pertanian dan perikanan. Misalnya, bagi para petani, iklim yang tidak
 menentu dapat menyebabkan gagal panen sehingga jumlah barang yang 
 ditawarkan (contohnya beras) akan berkurang
 
+[Video: permintaan dan penawaran](https://youtu.be/2oRuemrJKac)
+
 ## B. Hukum Permintaan dan Hukum Penawaran 
+
+[Video: hukum permintaan dan penawaran](https://youtu.be/yOiVoWxFYwc)
 
 ### 1. Hukum Permintaan dan Asumsi yang Mendasarinya
    
@@ -189,6 +193,8 @@ yang akan diproduksi dan dijual, dengan asumsi keadaan lain tetap tidak
 berubah. 
 
 ## C. Elastisitas
+
+[Video: elastisitas permintaan dan penawaran](https://youtu.be/ojJ0CW0hois)
 
 ### 1. Elastisitas Permintaan
    
@@ -429,6 +435,8 @@ suatu pasar akan menciptakan tingkat persaingan yang berbeda. Gambaran
 tingkat persaingan di suatu pasar barang disebut struktur pasar.
 Berdasarkan struktur pasarnya bentuk-bentuk pasar dibedakan 
 menjadi sebagai berikut
+
+[Video: jenis-jenis pasar](https://youtu.be/5Do_GCBigkU) 
 
 #### a. Pasar Persaingan Sempurna (Perfect Competition Market) 
 
